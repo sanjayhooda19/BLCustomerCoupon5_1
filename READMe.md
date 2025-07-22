@@ -49,7 +49,8 @@ Acceptance rate for all others: 0.2999
 #5. The acceptance rate is significantly lower for folks who visit bars less than once a month and have kids.
 
 #H1 Diffent Charts Summarizing the visualization
-![Coupon Distribution][images/coupon_distribution.png]
+
+![Coupon Distribution](images/coupon_distribution.png)
 ![Temperature Distribution][images/temperature_distribution.png]
 ![Travelling with children ][images/has_children_distribution.png]
 ![Occupation Distribution][images/occupation_distribution.png]
