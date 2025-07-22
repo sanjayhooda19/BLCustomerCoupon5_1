@@ -51,10 +51,10 @@ Acceptance rate for all others: 0.2999
 #H1 Diffent Charts Summarizing the visualization
 
 ![Coupon Distribution](images/coupon_distribution.png)
-![Temperature Distribution][images/temperature_distribution.png]
-![Travelling with children ][images/has_children_distribution.png]
-![Occupation Distribution][images/occupation_distribution.png]
-![Restauranrt20to50 Distribution][images/distribution_Restaurant20To50.png]
+![Temperature Distribution](images/temperature_distribution.png)
+![Travelling with children ](images/has_children_distribution.png)
+![Occupation Distribution](images/occupation_distribution.png)
+![Restauranrt20to50 Distribution](images/distribution_Restaurant20To50.png)
 ![RestauranrtLessThan20 Distribution](images/distribution_RestaurantLessThan20.png)
 ![Carry Away Distribution](images/distribution_CarryAway.png)
 ![CoffeeHouse Distribution text](images/distribution_CoffeeHouse.png)
